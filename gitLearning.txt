@@ -1,2 +1,3 @@
 THis is a temporary file to add in the GitHub. (This is added from the local Repository).
-I have updated the file from the VS code.
+I have updated the file from the VS code.(Updated the file and directly commited from the VS code with staging).
+Now first stage by clicking the + sign next the file name.
